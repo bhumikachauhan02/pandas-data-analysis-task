@@ -1,2 +1,24 @@
-# pandas-data-analysis-task
-Data analysis project using Python Pandas
+# Pandas Data Analysis Project
+
+## Description
+This project demonstrates data analysis using Python Pandas.
+
+## Features
+- Data loading using CSV
+- Data cleaning (handling missing values)
+- Filtering data
+- Grouping and aggregation
+- Extracting insights
+
+## Tools Used
+- Python
+- Pandas
+- Spyder IDE
+
+## Files Included
+- task1.py → Python code
+- data.csv → Dataset
+- Pandas_Task_Report.docx → Report
+
+## Output
+Basic employee dataset analysis with salary insights and department grouping.
