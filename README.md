@@ -16,9 +16,9 @@ This project demonstrates data analysis using Python Pandas.
 - Spyder IDE
 
 ## Files Included
-- task1.py → Python code
+- task2_.py → Python code
 - data.csv → Dataset
-- Pandas_Task_Report.docx → Report
+- Task 2.pdf → Report
 
 ## Output
 Basic employee dataset analysis with salary insights and department grouping.
